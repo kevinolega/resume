@@ -4,7 +4,7 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "resume/images/kevin 1_5.jpg"
+photo: "https://github.com/kevinolega/resume/raw/master/images/kevin%201_5.jpg"
 name: "Kevin Olega"
 copy: "I'm a junior project manager based in Manila. Two years experience coordinating projects for online markerers. I also write articles and teach English and customer service skills."
 
